@@ -27,5 +27,8 @@
     "eslint-plugin-react-refresh": "^0.5.6",
     "globals": "^17.12.0",
     "prettier": "^3.9.9"
+  },
+  "dependencies": {
+    "serverless-http": "^4.0.0"
   }
 }
